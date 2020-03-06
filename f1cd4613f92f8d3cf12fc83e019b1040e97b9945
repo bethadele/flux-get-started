@@ -1,0 +1,1 @@
+{"jobID":"becb3ed7-b96e-ca94-3fab-8dfc776d4486","spec":{"type":"policy","cause":{"Message":"","User":"Beth Long \u003cbethlong@newrelic.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
